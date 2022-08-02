@@ -1,7 +1,7 @@
 import React from "react";
 
 function CurrencySelection() {
-  return <div>CurrencySelection</div>;
+  return <div></div>;
 }
 
 export default CurrencySelection;

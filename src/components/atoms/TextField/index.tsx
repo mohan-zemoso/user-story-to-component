@@ -1,7 +1,7 @@
 import React from "react";
 
-function Icon() {
+function TextField() {
   return <div></div>;
 }
 
-export default Icon;
+export default TextField;
