@@ -1,7 +1,7 @@
 import React from "react";
 
 function DropDown() {
-  return <div>DropDown</div>;
+  return <div></div>;
 }
 
 export default DropDown;

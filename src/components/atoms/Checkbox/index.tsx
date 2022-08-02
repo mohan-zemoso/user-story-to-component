@@ -1,7 +1,7 @@
 import React from "react";
 
-function Icon() {
+function Checkbox() {
   return <div></div>;
 }
 
-export default Icon;
+export default Checkbox;
